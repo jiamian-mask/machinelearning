@@ -1,4 +1,4 @@
-#程序代码13.5 python tensorflow实现图像识别——预测，名称：ImagePredict.py
+#程序代码3 tensorflow实现图像识别——预测，名称：ImagePredict.py
 import glob 
 #import tensorflow as tf
 import tensorflow.compat.v1 as tf
