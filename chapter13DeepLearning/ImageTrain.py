@@ -1,4 +1,4 @@
-#程序代码13.4 python tensorflow实现图像识别，名称：14.4ImageTrain.py
+#程序代码1 python tensorflow实现图像识别
 import Imagedataset
 #import tensorflow as tf
 import tensorflow.compat.v1 as tf
