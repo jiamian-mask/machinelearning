@@ -1,4 +1,4 @@
-#程序代码2 python tensorflow实现图像识别
+#程序代码2 tensorflow实现图像识别
 import Imagedataset
 #import tensorflow as tf
 import tensorflow.compat.v1 as tf
