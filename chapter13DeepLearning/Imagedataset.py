@@ -1,4 +1,4 @@
-#程序代码13.3 python tensorflow实现图像识别--数据集处理，名称：Imagedataset.py
+#程序代码1 python tensorflow实现图像识别--数据集处理，名称：Imagedataset.py
 import numpy as np
 import os
 import glob
